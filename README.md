@@ -1,0 +1,1 @@
+# Little Lemon Booking App\n\nRun: npm install && npm start
